@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e24a9a5-fe07-4f08-bdfd-05853c575939" name="Default" comment="OOP_auth">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/OOP_autReg.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/godfather0835.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/Dharma Type Font License.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontomas-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontomas-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontomas-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontomas-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/franchise-bold-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/franchise-bold-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/franchise-bold-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/franchise-bold-webfont.woff" />
+    <list default="true" id="5e24a9a5-fe07-4f08-bdfd-05853c575939" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,8 +33,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2552">
-              <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+            <state relative-caret-position="186">
+              <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -131,7 +114,13 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ООП" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -164,7 +153,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
     <option name="y" value="-455" />
     <option name="width" value="1920" />
@@ -204,9 +193,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -239,7 +229,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611570652266</updated>
       <workItem from="1611570653412" duration="10299000" />
-      <workItem from="1611589068715" duration="992000" />
+      <workItem from="1611589068715" duration="1864000" />
     </task>
     <task id="LOCAL-00001" summary="OOP_auth_пароль заменить на свой">
       <created>1611589828837</created>
@@ -248,16 +238,23 @@
       <option name="project" value="LOCAL" />
       <updated>1611589828837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOP_auth">
+      <created>1611590193064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611590193064</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11291000" />
+    <option name="totallyTimeSpent" value="12163000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-455" width="1920" height="2137" extended-state="0" />
+    <frame x="1920" y="-454" width="1920" height="2137" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18210863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18210863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -312,7 +309,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OOP_auth_пароль заменить на свой" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP_auth_пароль заменить на свой" />
+    <MESSAGE value="OOP_auth" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP_auth" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -456,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2552">
-          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        <state relative-caret-position="186">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding />
         </state>
       </provider>
